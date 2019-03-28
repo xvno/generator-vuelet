@@ -1,0 +1,1 @@
+# Vuelet -- A simple scaffold fro creating a module in a vue-cli created Vue project.
